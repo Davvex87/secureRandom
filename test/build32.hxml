@@ -1,0 +1,4 @@
+-lib secureRandom
+-D HXCPP_M32
+-m Main
+--cpp bin

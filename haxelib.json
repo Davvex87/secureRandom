@@ -1,0 +1,10 @@
+{
+	"name": "secureRandom",
+	"url": "https://github.com/Davvex87/secureRandom/",
+	"license": "MIT",
+	"tags": ["cpp", "crypto", "utility"],
+	"description": "Simple, lightweight, portable cryptographically secure random number generator for Windows, Mac and Linux (C++ only)",
+	"version": "1.0.0",
+	"releasenote": "Initial release",
+	"contributors": ["Davvex87"]
+}
